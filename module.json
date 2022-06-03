@@ -5,7 +5,7 @@
   "author": "",
   "authors": ["BanterTheGreat"],
   "flags": {},
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.9",
   "compatibleCoreVersion": "9",
   "scripts": [
@@ -25,5 +25,5 @@
   "library": false,
   "url": "https://github.com/BanterTheGreat/4e-easy-effects",
   "manifest": "https://raw.githubusercontent.com/BanterTheGreat/4e-easy-effects/main/module.json"
-  "download": "https://github.com/BanterTheGreat/4e-easy-effects/archive/refs/tags/1.0.0.zip"
+  "download": "https://github.com/BanterTheGreat/4e-easy-effects/archive/refs/tags/1.0.1.zip"
 }
