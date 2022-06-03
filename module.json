@@ -1,5 +1,5 @@
 {
-  "name": "4e-easy-effects",
+  "name": "4e-effects-panel",
   "title": "4e Effects Panel",
   "description": "Adding (parts of) the Effects Panel from Pf2e to 4e.",
   "author": "",
@@ -23,7 +23,7 @@
   "protected": false,
   "coreTranslation": false,
   "library": false,
-  "url": "https://github.com/BanterTheGreat/4e-easy-effects",
-  "manifest": "https://raw.githubusercontent.com/BanterTheGreat/4e-easy-effects/main/module.json",
-  "download": "https://github.com/BanterTheGreat/4e-easy-effects/archive/refs/tags/1.0.1.zip"
+  "url": "https://github.com/BanterTheGreat/4e-effects-panel",
+  "manifest": "https://raw.githubusercontent.com/BanterTheGreat/4e-effects-panel/main/module.json",
+  "download": "https://github.com/BanterTheGreat/4e-effects-panel/archive/refs/tags/1.0.2.zip"
 }
