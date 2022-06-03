@@ -24,6 +24,6 @@
   "coreTranslation": false,
   "library": false,
   "url": "https://github.com/BanterTheGreat/4e-easy-effects",
-  "manifest": "https://github.com/BanterTheGreat/4e-easy-effects/releases/latest/download/module.json",
-  "download": "https://github.com/BanterTheGreat/4e-easy-effects/releases/download/1.0.0/module.zip"
+  "manifest": "https://raw.githubusercontent.com/BanterTheGreat/4e-easy-effects/main/module.json"
+  "download": "https://github.com/BanterTheGreat/4e-easy-effects/archive/refs/tags/1.0.0.zip"
 }
