@@ -1,0 +1,15 @@
+<section class="effect-panel">
+    {{#each effects}}
+        <div class="effect-item spell">
+            <div class="effect-info">
+                <h1>{{this.displayName}}</h1>
+                <div class="instructions">
+                    <p>Remove Effect</p>
+                </div>
+            </div>
+            <div class="icon" data-item-id="{{this._id}}" style="background-image: url({{this.img}})">
+                <i class="fas fa-comment-alt"></i>
+            </div>
+        </div>
+    {{/each}}
+</section>

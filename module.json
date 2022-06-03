@@ -1,0 +1,26 @@
+{
+  "name": "4e-easy-effects",
+  "title": "Dnd4e Easy Effects",
+  "description": "Adding a simple way to toggle effects on Tokens",
+  "author": "",
+  "authors": ["BanterTheGreat"],
+  "flags": {},
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.9",
+  "compatibleCoreVersion": "9",
+  "scripts": [
+	"scripts/effects-panel.js",
+  "scripts/main.js"
+  ],
+  "esmodules": [],
+  "styles": ["static/effects-panel.css"],
+  "languages": [],
+  "packs": [],
+  "system": ["dnd4e"],
+  "minimumSystemVersion": "0.2.57",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
