@@ -61,5 +61,3 @@ class EffectsPanel extends Application {
     });
   }
 }
-
-CONFIG.debug.hooks = false;
