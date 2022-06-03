@@ -17,7 +17,7 @@ Hooks.on("controlToken", () => {
 })
 
 Hooks.on("createItem", () => {
-  game.effectsPanel.refresh(); // Could be improved /w Libwrapper probably.
+  game.effectsPanel.refresh(); // Find a way to hook into the actor's onEmbeddedDocumentsUpdate
 })
 
 Hooks.on("deleteItem", () => {
