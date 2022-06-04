@@ -9,7 +9,7 @@ class EffectsPanel extends Application {
     return mergeObject(super.defaultOptions, {
       id: "4e-easy-effects-panel",
       popOut: false,
-      template: "modules/4e-easy-effects/static/effects-panel.html",
+      template: "modules/4e-effects-panel/static/effects-panel.html",
     })
   }
 
